@@ -22,7 +22,7 @@ python manage.py migrate
 ### 2. **Cargar los datos de prueba en la base de datos (opcional)**
 
 ```bash
-paython manage.py loaddata dump.json
+python manage.py loaddata dump.json
 ```
 
 ### 3. **Crear un Superusuario** (opcional para acceder al administrador de Django)
